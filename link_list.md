@@ -1,4 +1,8 @@
-## Threat Hunting Reference Links
+# Threat Hunting References
+
+### Reading Material
+
+### Links
 
 - https://threathunterplaybook.com/
 - https://github.com/OTRF/ThreatHunter-Playbook
